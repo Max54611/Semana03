@@ -5,6 +5,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Registro</title>
+<%@ include file="encabezado.jsp" %>
 </head>
 <body>
 <h2>ABC- REGISTRO PRODUCTO</h2>

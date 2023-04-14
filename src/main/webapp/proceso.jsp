@@ -5,6 +5,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Empresa ABC</title>
+<%@ include file="encabezado.jsp" %>
 </head>
 <%@ page import="java.sql.*"  %>
 <%@ page import="datos.Mantenimiento"  %>
